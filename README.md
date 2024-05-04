@@ -32,7 +32,7 @@ The program uses the following command-line arguments:
 To use the program, run it with the desired command-line arguments. For example:
 
 ```bash
-python split_wav.py --input_dir ./input/ --output_dir ./output/ --analyze_note_fft --mono --fadein --fadeout
+python sample_splitter.py --input_dir ./input/ --output_dir ./output/ --analyze_note_fft --mono --fadein --fadeout
 ```
 
 This will split each WAV file in the `./input/` directory into separate files for each note, analyze the key of each note using FFT, convert the output to mono, and apply fade-in and fade-out effects to each note. The output files will be saved in the `./output/` directory. The program will also display a graph showing how each input file was split. 
