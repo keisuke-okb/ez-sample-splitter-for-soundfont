@@ -3,6 +3,7 @@
 This Python program is designed to split a single WAV file, which contains multiple recorded notes from an instrument, into separate WAV files for each note.
 
 ![image](https://github.com/keisuke-okb/ez-sample-splitter-for-soundfont/assets/70097451/5e390844-ca66-4dec-b63c-4befbca8b671)
+![output-20240504-114043](https://github.com/keisuke-okb/ez-sample-splitter-for-soundfont/assets/70097451/81bb69e3-023b-4c15-83c5-8519711f7ae3)
 
 
 ## Functions
